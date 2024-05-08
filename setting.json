@@ -1,4 +1,4 @@
 {
-    "port": 3000,
-    "host": "mysql"
+    "name": "soon2",
+    "host": "post"
 }
