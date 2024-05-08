@@ -2,5 +2,6 @@
     "name": "soon",
     "age": 20,
     "city": "서울",
-    "city2": "경기도"
+    "city2": "경기도",
+    "bye" : "hi"
 }
